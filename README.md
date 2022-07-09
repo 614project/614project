@@ -8,6 +8,13 @@
 ### Usage Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=614project&theme=dark)](https://github.com/614project/github-readme-stats)
 <br><br>
+### Skill
+ - C
+ - C++
+ - C# (favorite language)
+ - Java
+ - Python
+ - HTML, CSS
 ### Contact
 Email: 614@naoul.com
 <br>
