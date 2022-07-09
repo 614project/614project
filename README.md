@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**614project/614project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, there!
+**My name is [614project](http://614.kro.kr/).**
+(another nickname is jyunni.)
+<br>
+### Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyunni)](https://solved.ac/jyunni/) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jyunni&theme=dark)
+<br><br>
+### Usage Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=614project&theme=dark)](https://github.com/614project/github-readme-stats)
+<br><br>
+### Contact
+Email: 614@naoul.com
+<br>
+Discord: 614#5020
