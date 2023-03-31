@@ -1,6 +1,6 @@
 ### Hi, there!
 **My name is [614project](http://614.kro.kr/).**
-(another nickname is jyunni.)
+(another nickname is jyunni.)   
 (annother nickname is Super Idol)
 <br>
 ### Solved.ac
@@ -17,10 +17,10 @@
  - Python
  - HTML(this is programming language), CSS
 ### Contact
-Email: 614@naoul.com
-Mail: me
-Femail: my mom
-Gmail: my gay friend
+Email: 614@naoul.com   
+Mail: me   
+Femail: my mom   
+Gmail: my gay friend   
 <br>
-Discord: 614#5020
+Discord: 614#5020   
 Encord: 614#5020
