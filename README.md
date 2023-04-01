@@ -1,8 +1,6 @@
 ### Hi, there!
 **My name is [614project](http://614.kro.kr/).**
 (another nickname is jyunni.)   
-
-<br>
 ### Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyunni)](https://solved.ac/jyunni/) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jyunni&theme=dark)
 <br><br>
@@ -15,6 +13,7 @@
  - C# (favorite language)
  - Java
  - Python
+
 ### Contact
 Email: 614@naoul.com   
 Discord: 614#5020   
