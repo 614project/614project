@@ -13,6 +13,7 @@
  - C# (favorite language)
  - Java
  - Python
+ - Typescript
 
 ### Contact
 Email: 614@naoul.com   
