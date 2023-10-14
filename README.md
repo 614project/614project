@@ -17,4 +17,4 @@
 
 ### Contact
 Email: 614@naoul.com   
-Discord: 614#5020   
+Discord: 614project
